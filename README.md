@@ -1,1 +1,2 @@
-# -Gandalf.sh
+Gandalf
+.\Gandalf.sh 
